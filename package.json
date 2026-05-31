@@ -1,4 +1,3 @@
-```json
 {
   "name": "promptify-media-ai",
   "private": true,
@@ -26,5 +25,3 @@
     "vite": "^5.2.11"
   }
 }
-
-```
